@@ -45,7 +45,7 @@ function HomePage() {
         <div className="mx-auto max-w-[1280px] w-full px-5 md:px-20 grid md:grid-cols-[1.4fr_1fr] gap-12 items-end">
           <div>
             <Reveal delay={0.1}>
-              <h1 className="mt-8 font-serif text-[14vw] md:text-[100px] leading-[0.95] tracking-[-0.02em] text-white [text-shadow:0_0_22px_rgba(255,255,255,0.28)]">
+              <h1 className="mt-8 font-serif text-[14vw] md:text-[100px] leading-[0.95] tracking-[-0.02em] text-white">
                 We build <span className="holo-text">AI</span><br />
                 that works.
               </h1>
@@ -68,7 +68,7 @@ function HomePage() {
             </Reveal>
           </div>
           <Reveal delay={0.3} className="md:pb-4">
-            <p className="relative z-10 !text-white font-medium bg-black/35 border border-white/20 rounded-xl px-5 py-4 backdrop-blur-sm [text-shadow:0_0_14px_rgba(255,255,255,0.95),0_0_34px_rgba(255,255,255,0.7),0_0_56px_rgba(255,255,255,0.45)] text-base md:text-lg leading-relaxed max-w-sm md:ml-auto">
+            <p className="relative z-10 text-white font-semibold bg-black/30 border border-white/25 rounded-xl px-5 py-4 backdrop-blur-sm text-base md:text-lg leading-relaxed max-w-sm md:ml-auto">
               An editorial AI studio crafting premium websites, automations, custom agents, and voice callers - engineered to ship and built to convert.
             </p>
           </Reveal>
