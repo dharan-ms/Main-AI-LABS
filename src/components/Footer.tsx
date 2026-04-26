@@ -6,7 +6,7 @@ export function Footer() {
       <div className="mx-auto max-w-[1280px] px-5 md:px-20 py-16 grid gap-10 md:grid-cols-3">
         <div>
           <p className="text-sm text-muted-foreground max-w-xs">
-            Aura Infinity Labs — building AI that works. Premium websites, automations, agents and voice callers.
+            Aura Infinity Labs — a newsletter and content platform for meaningful updates and thoughtful publishing.
           </p>
         </div>
         <div className="grid grid-cols-2 gap-6 text-[11px] uppercase tracking-[0.18em]">

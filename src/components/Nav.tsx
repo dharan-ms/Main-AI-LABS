@@ -34,8 +34,8 @@ export function Nav() {
           className="inline-flex items-center gap-3"
           aria-label="Home"
         >
-          <img src={logo} alt="Aura Infinity Labs logo" className="h-20 w-auto object-contain invert" />
-          <span className="text-base md:text-lg font-serif tracking-[0.06em] text-white">
+          <img src={logo} alt="Aura Infinity Labs logo" className="h-14 w-auto object-contain invert" />
+          <span className="text-lg md:text-xl font-serif tracking-[0.06em] text-white">
             Aura Infinity Labs
           </span>
         </Link>
@@ -75,8 +75,8 @@ export function Nav() {
               className="inline-flex items-center gap-3"
               aria-label="Home"
             >
-              <img src={logo} alt="Aura Infinity Labs logo" className="h-20 w-auto object-contain invert" />
-              <span className="text-base font-serif tracking-[0.06em] text-white">
+              <img src={logo} alt="Aura Infinity Labs logo" className="h-14 w-auto object-contain invert" />
+              <span className="text-lg font-serif tracking-[0.06em] text-white">
                 Aura Infinity Labs
               </span>
             </Link>
